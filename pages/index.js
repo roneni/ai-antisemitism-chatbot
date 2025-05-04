@@ -17,7 +17,7 @@ export default function Home() {
 
   return (
     <div style={{ padding: '2rem', fontFamily: 'Arial' }}>
-      <h1>Fight Antisemitism</h1>
+      <h1>Fight Antisemitism Online</h1>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
